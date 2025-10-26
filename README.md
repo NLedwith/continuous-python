@@ -17,7 +17,7 @@
     git clone https://github.com/nledwith/continuous-python.git
     cd continuous-python
 
-2. Build the Docker container
+2. Build the Docker image
     ```bash
     sudo docker build -t bash-python-app .
 
